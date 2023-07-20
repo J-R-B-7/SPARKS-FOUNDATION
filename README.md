@@ -20,7 +20,6 @@ Welcome to the Retail Exploratory Data Analysis (EDA) project! This repository c
 6. [Getting Started](#getting-started)
 7. [Dependencies](#dependencies)
 8. [Contributing](#contributing)
-9. [License](#license)
 
 ## Introduction
 
